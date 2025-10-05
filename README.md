@@ -3,7 +3,7 @@
 My name is Angel, and I'm a student as Stevens Institute of Technology. I love digging deep into Linux internals, going to the gym, and math. 
 
 - ⚡ Fun fact: ...
-My favorite language is C...
+My favorite language is C XD
 
 <!--
 **atodoro1/atodoro1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
