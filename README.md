@@ -1,9 +1,21 @@
-## Hi there 👋
+## 👋 Hi there!
 
-My name is Angel, and I'm a student as Stevens Institute of Technology. I love digging deep into Linux internals, going to the gym, and math. 
+My name is Angel, and I'm a student at Stevens Institute of Technology.  
+I love digging deep into Linux internals, going to the gym, and math.
 
-- ⚡ Fun fact: ...
-My favorite language is C XD
+---
+
+## 🤔 What is Angel up to?
+
+- Learning how the linux kernel works
+- Reading math and CS books I probably don’t need for class
+
+---
+
+## ⚡ Fun facts
+
+- My favorite programming language is **C**
+- I used to run **NixOS** as my daily driver
 
 <!--
 **atodoro1/atodoro1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
