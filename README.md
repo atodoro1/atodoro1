@@ -1,7 +1,7 @@
 ## 👋 Hi there!
 
 My name is Angel, and I'm a student at Stevens Institute of Technology.  
-I love digging deep into Linux internals, going to the gym, and math.
+I love coffee, going to the gym, computers, and math.
 
 ---
 
