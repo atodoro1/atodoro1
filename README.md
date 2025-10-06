@@ -1,21 +1,24 @@
 ## 👋 Hi there!
 
 My name is Angel, and I'm a student at Stevens Institute of Technology.  
-I love coffee, going to the gym, computers, and math.
-
+I'm a Junior Platform Engineer at a NYC Hedge Fund.
 ---
 
 ## 🤔 What is Angel up to?
 
-- Learning how the linux kernel works
-- Reading math and CS books I probably don’t need for class
+- Learning how the linux kernel works handles network connections.
+- Reading math and CS books I probably don’t need for class.
 
 ---
 
-## ⚡ Fun facts
+## 📚 Books I like
 
-- My favorite programming language is **C**
-- I used to run **NixOS** as my daily driver
+- Advanced Programming in the UNIX Environment, 3rd Edition 3rd Edition by W. Stevens (Author), Stephen Rago
+  - Great for learning a LOT about UNIX its programming interface in C. Doing the exercises in this book really enhanced my C programming skills.
+ 
+- Inside the Machine by Jon Stokes
+  - Very easy to understand computer architecture book. Still in progress...  
+---
 
 <!--
 **atodoro1/atodoro1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
