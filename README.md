@@ -6,7 +6,7 @@ I'm a Junior Platform Engineer at a NYC Hedge Fund.
 
 ## 🤔 What is Angel up to?
 
-- Learning how the linux kernel works handles network connections.
+- Learning how the linux kernel works handles networking.
 - Reading math and CS books I probably don’t need for class.
 
 ---
