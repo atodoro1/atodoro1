@@ -1,5 +1,7 @@
 ## 👋 Hi there!
 
+This is out of data and I will update later...
+
 My name is Angel, and I'm a student at Stevens Institute of Technology.  
 I'm a Junior Platform Engineer at a NYC Hedge Fund.
 ---
