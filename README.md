@@ -1,3 +1,10 @@
+## Hi
+
+I like tech, I like math, and will soon work as a Systems Engineer for a HFT firm.
+
+
+<!--
+
 ## 👋 Hi there!
 
 This is out of data and I will update later...
@@ -22,7 +29,6 @@ I'm a Junior Platform Engineer at a NYC Hedge Fund.
   - Very easy to understand computer architecture book. Still in progress...  
 ---
 
-<!--
 **atodoro1/atodoro1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
